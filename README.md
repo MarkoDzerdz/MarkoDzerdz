@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkoDzerdz
 - 👀 I’m interested in ... water polo
-- 🌱 I’m currently learning ... mechanics of trusses
-- 💞️ I’m looking to collaborate on ... cold room HVAC data analytics
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... cold room HVAC data prediction
 - 📫 How to reach me ... marko.dzerdz@ideabytes.com
 
 <!---
